@@ -1,6 +1,6 @@
 # Study TS witdh ddangkong
 
-### Study List
+### 👀 Study List
 1. [TS 환경 설정](https://github.com/free-ko/study-ts-ddangkong/blob/main/memo/01_note.md)
 2. [TS 타입 추론](https://github.com/free-ko/study-ts-ddangkong/blob/main/memo/02_note.md)
 3. [TS 타입 명시](https://github.com/free-ko/study-ts-ddangkong/blob/main/memo/03_note.md)
